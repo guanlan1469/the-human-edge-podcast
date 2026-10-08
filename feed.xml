@@ -5,7 +5,7 @@
     <link>https://github.com/guanlan1469/the-human-edge-podcast</link>
     <language>zh-cn</language>
     <description>《硅基时代的肉身突围》是一档关注 AI 如何改变普通人工作与生活的中文播客。从一项新工具、一个工作现场或一个生活困惑出发，我们讨论效率、判断、信任，以及技术变化中人的选择。希望每次聊完，你既能理解一种变化，也能带走一个值得亲自尝试的办法。本节目采用 AI 辅助研究与内容制作，双人对谈音频由 AI 生成，选题与发布由主创审核。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 16:39:39 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:18:00 +0800</lastBuildDate>
     <itunes:author>Lan</itunes:author>
     <itunes:owner>
       <itunes:name>Lan</itunes:name>
@@ -26,8 +26,8 @@
       <guid isPermaLink="false">the-human-edge-podcast-ep001</guid>
       <pubDate>Thu, 08 Oct 2026 16:20:29 +0800</pubDate>
       <description><![CDATA[<p>当 AI 不只给你建议，还能操作电脑、整理材料、完成一串任务，我们的工作会怎样改变？</p><p>《硅基时代的肉身突围》第一期，从整理一场会议的假设场景出发，聊聊推理模型、AI 智能体和具身智能分别意味着什么，以及把工作交出去以后，人还需要做哪些判断。</p><p>一张漂亮的表格，并不代表事情已经办好。目标有没有说清楚，材料是不是最新，结果该怎样核对——这些问题，会随着委托的增加变得更重要。</p><p>本期小练习：选一件低风险、可纠错的重复任务，写清输入、期待的结果和验收标准，再比较包含检查与修正的完整耗时。</p><p>本节目采用 AI 辅助研究与内容制作，对谈声音由 AI 生成。工作场景为说明问题而设的假设案例。</p>]]></description>
-      <enclosure url="https://guanlan1469.github.io/the-human-edge-podcast/audio/ep001.m4a" length="26556413" type="audio/mp4"/>
-      <itunes:duration>00:13:45</itunes:duration>
+      <enclosure url="https://guanlan1469.github.io/the-human-edge-podcast/audio/ep001.m4a" length="47111880" type="audio/mp4"/>
+      <itunes:duration>00:24:23</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
