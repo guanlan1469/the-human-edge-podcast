@@ -6,7 +6,7 @@
 
 ## 第一期
 
-[EP01｜AI 开始替你干活了，然后呢？](https://guanlan1469.github.io/the-human-edge-podcast/audio/ep001.m4a) · 13:45
+[EP01｜AI 开始替你干活了，然后呢？](https://guanlan1469.github.io/the-human-edge-podcast/audio/ep001-v3.m4a) · 24:23
 
 从整理会议的假设场景出发，讨论推理模型、AI 智能体和具身智能，以及如何明确目标、核对结果。
 
