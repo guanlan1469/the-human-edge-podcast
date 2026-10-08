@@ -5,8 +5,12 @@
     <link>https://github.com/guanlan1469/the-human-edge-podcast</link>
     <language>zh-cn</language>
     <description>《硅基时代的肉身突围》是一档关注 AI 如何改变普通人工作与生活的中文播客。从一项新工具、一个工作现场或一个生活困惑出发，我们讨论效率、判断、信任，以及技术变化中人的选择。希望每次聊完，你既能理解一种变化，也能带走一个值得亲自尝试的办法。本节目采用 AI 辅助研究与内容制作，双人对谈音频由 AI 生成，选题与发布由主创审核。</description>
-    <lastBuildDate>Thu, 08 Oct 2026 16:20:29 +0800</lastBuildDate>
-    <itunes:author>硅基时代的肉身突围</itunes:author>
+    <lastBuildDate>Thu, 08 Oct 2026 16:38:32 +0800</lastBuildDate>
+    <itunes:author>Lan</itunes:author>
+    <itunes:owner>
+      <itunes:name>Lan</itunes:name>
+      <itunes:email>guanlan1469@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"/>
