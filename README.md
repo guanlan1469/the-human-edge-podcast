@@ -6,10 +6,10 @@
 
 ## 第一期
 
-[EP01｜AI 开始替你干活了，然后呢？](https://github.com/guanlan1469/the-human-edge-podcast/releases/download/ep001/ep001.m4a) · 13:45
+[EP01｜AI 开始替你干活了，然后呢？](https://guanlan1469.github.io/the-human-edge-podcast/audio/ep001.m4a) · 13:45
 
 从整理会议的假设场景出发，讨论推理模型、AI 智能体和具身智能，以及如何明确目标、核对结果。
 
 本节目采用 AI 辅助研究与内容制作，对谈声音由 AI 生成，选题与发布由主创审核。
 
-RSS 和封面通过 GitHub Pages 提供，音频保存在本仓库的 Releases。
+RSS、封面和第一期音频通过 GitHub Pages 提供，音频另在 Releases 归档。后续随节目体量增长评估专用音频托管；RSS订阅地址保持不变。

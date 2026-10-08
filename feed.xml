@@ -22,7 +22,7 @@
       <guid isPermaLink="false">the-human-edge-podcast-ep001</guid>
       <pubDate>Thu, 08 Oct 2026 16:20:29 +0800</pubDate>
       <description><![CDATA[<p>当 AI 不只给你建议，还能操作电脑、整理材料、完成一串任务，我们的工作会怎样改变？</p><p>《硅基时代的肉身突围》第一期，从整理一场会议的假设场景出发，聊聊推理模型、AI 智能体和具身智能分别意味着什么，以及把工作交出去以后，人还需要做哪些判断。</p><p>一张漂亮的表格，并不代表事情已经办好。目标有没有说清楚，材料是不是最新，结果该怎样核对——这些问题，会随着委托的增加变得更重要。</p><p>本期小练习：选一件低风险、可纠错的重复任务，写清输入、期待的结果和验收标准，再比较包含检查与修正的完整耗时。</p><p>本节目采用 AI 辅助研究与内容制作，对谈声音由 AI 生成。工作场景为说明问题而设的假设案例。</p><p>资料来源：</p><ul><li><a href="https://ai.google.dev/gemini-api/docs/computer-use">Google Gemini Computer Use 文档</a></li><li><a href="https://ai.google.dev/gemini-api/docs/thinking">Google Gemini Thinking 文档</a></li><li><a href="https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/">Google DeepMind Gemini Robotics 介绍（2025年，趋势背景）</a></li></ul>]]></description>
-      <enclosure url="https://github.com/guanlan1469/the-human-edge-podcast/releases/download/ep001/ep001.m4a" length="26556413" type="audio/mp4"/>
+      <enclosure url="https://guanlan1469.github.io/the-human-edge-podcast/audio/ep001.m4a" length="26556413" type="audio/mp4"/>
       <itunes:duration>00:13:45</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
