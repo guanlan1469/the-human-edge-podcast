@@ -5,7 +5,7 @@
     <link>https://github.com/guanlan1469/the-human-edge-podcast</link>
     <language>zh-cn</language>
     <description>《硅基时代的肉身突围》是一档关注 AI 如何改变普通人工作与生活的中文播客。从一项新工具、一个工作现场或一个生活困惑出发，我们讨论效率、判断、信任，以及技术变化中人的选择。希望每次聊完，你既能理解一种变化，也能带走一个值得亲自尝试的办法。本节目采用 AI 辅助研究与内容制作，双人对谈音频由 AI 生成，选题与发布由主创审核。</description>
-    <lastBuildDate>Fri, 09 Oct 2026 16:15:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:15:00 +0800</lastBuildDate>
     <itunes:author>Lan</itunes:author>
     <itunes:owner>
       <itunes:name>Lan</itunes:name>
@@ -21,6 +21,17 @@
       <link>https://github.com/guanlan1469/the-human-edge-podcast</link>
     </image>
     <atom:link href="https://guanlan1469.github.io/the-human-edge-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>EP02｜AI 有问必答，可你连该问什么都不知道</title>
+      <guid isPermaLink="false">the-human-edge-podcast-ep002</guid>
+      <pubDate>Tue, 13 Oct 2026 11:15:00 +0800</pubDate>
+      <description><![CDATA[<p>领导一句“你分析一下”，你把问题原样丢给 AI，几秒钟拿到十条原因，条条都对，却没有一条告诉你下一步该做什么。</p><p>答案越来越便宜，好问题反而越来越稀缺。这一期我们聊聊：为什么对着对话框，人反而容易脑子一片空白？“提问能力”到底是不是被神化了？在问 AI 之前，怎样先把自己真正要解决的问题找出来？</p><p>本期小练习：遇到想问 AI 的事，先写下“我遇到的情况是……我真正想弄明白的是……”，再让 AI 先反问你三个问题。</p><p>本节目采用 AI 辅助研究与内容制作，对谈声音由 AI 生成。文中工作和生活场景均为说明问题而设的假设案例。</p>]]></description>
+      <enclosure url="https://guanlan1469.github.io/the-human-edge-podcast/audio/ep002.m4a" length="30372184" type="audio/mp4"/>
+      <itunes:duration>00:15:43</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>EP01｜AI 开始替你干活了，然后呢？</title>
       <guid isPermaLink="false">the-human-edge-podcast-ep001-v4</guid>

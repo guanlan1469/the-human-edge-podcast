@@ -4,6 +4,12 @@
 
 订阅 RSS：https://guanlan1469.github.io/the-human-edge-podcast/feed.xml
 
+## 最新一期
+
+[EP02｜AI 有问必答，可你连该问什么都不知道](https://guanlan1469.github.io/the-human-edge-podcast/audio/ep002.m4a) · 15:43
+
+从“分析老用户流失”的假设场景出发，聊为什么答案越来越便宜、好问题反而越来越稀缺，以及问 AI 之前怎样先找到自己真正要解决的问题。
+
 ## 第一期
 
 [EP01｜AI 开始替你干活了，然后呢？](https://guanlan1469.github.io/the-human-edge-podcast/audio/ep001-v3.m4a) · 24:23
